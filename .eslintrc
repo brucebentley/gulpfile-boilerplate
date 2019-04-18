@@ -11,7 +11,7 @@
         "eol-last": [2, "always"],
         "eqeqeq": [2, "always"],
         "func-call-spacing": [2, "never"],
-        "indent": [2, 4],
+        "indent": [2, 2],
         "key-spacing": [2, { "beforeColon": false }],
         "keyword-spacing": [2, { "before": true }],
         "linebreak-style": [2, "unix"],
